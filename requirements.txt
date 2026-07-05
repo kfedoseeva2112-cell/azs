@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+sqlalchemy==2.0.25
+python-dotenv==1.0.1
+psycopg2-binary==2.9.9   # потом пригодится для PostgreSQL, но пока SQLite обойдётся без неё
+# для гео-расчётов
+geopy==2.4.1
+# для HTTP-запросов к картам
+requests==2.31.0
